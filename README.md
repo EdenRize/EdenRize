@@ -8,7 +8,7 @@
 
 • 🏆 I recently built a clone of Monday, check it out, it has everything! [Myday](https://myday-p034.onrender.com/))
 
-• 📫 You can reach me at [edenrize@gmail.com](edenrize@gmail.com)
+• 📫 You can reach me at edenrize@gmail.com
 
 
 ## Connect with me:
