@@ -1,4 +1,4 @@
-# Hi! I'm Nadav Vazana 👋
+# Hi! I'm Eden Rize 👋
 
 
 
@@ -6,19 +6,13 @@
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
-• 🏆 I recently built a twin of Wix, check it out, it has everything! [Weebo](https://weebo.onrender.com/))
+• 🏆 I recently built a clone of Monday, check it out, it has everything! [Myday](https://myday-p034.onrender.com/))
 
-• 📫 You can reach me at [nadavvivsa@gmail.com](nadavvivsa@gmail.com)
-
-• 💙 Fun fact: I love music, playing guitar, and art 🎨
-
+• 📫 You can reach me at [edenrize@gmail.com](edenrize@gmail.com)
 
 
 ## Connect with me:
-[<img title="Linkdin" width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/nadav-vazana-5b4540213/) 
-
-
-[<img title="My Website" width="40px" height="40px" src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1669484568/website-svgrepo-com_2_mlu63c.svg" />](https://nadavvazana.netlify.app/)
+[<img title="Linkdin" width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/eden-rize-9476541b7/) 
 
 
 ## Languages and Tools:
